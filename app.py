@@ -5,9 +5,6 @@ import HandTrackingModule as htm
 import pyautogui
 import time
 import numpy as np
-import os
-
-os.environ['DISPLAY'] = ':0'
 st.title("Virtual Mouse")
 st.write("use your index finger to move mouse pointer note: other than thumb all should be down")
 st.write("Single Click: use your index and middle finger as a click")
