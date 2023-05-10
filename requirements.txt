@@ -1,5 +1,5 @@
-mediapipe==0.9.3.0
-numpy==1.24.3
-opencv-contrib-python==4.7.0.72
-PyAutoGUI==0.9.53
+mediapipe
+numpy
+opencv-contrib-python
+PyAutoGUI
 streamlit
