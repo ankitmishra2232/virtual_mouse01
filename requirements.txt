@@ -44,7 +44,6 @@ pandas==2.0.1
 pefile==2023.2.7
 Pillow==9.5.0
 protobuf==3.20.3
-py2exe==0.13.0.0
 pyarrow==12.0.0
 PyAutoGUI==0.9.53
 pycparser==2.21
