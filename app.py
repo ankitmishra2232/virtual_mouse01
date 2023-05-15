@@ -1,4 +1,8 @@
 import streamlit as st
+import os
+
+# Set the DISPLAY environment variable
+os.environ['DISPLAY'] = ':0'
 import cv2
 import mediapipe as mp
 import HandTrackingModule as htm
