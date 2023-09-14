@@ -1,2 +1,2 @@
-def main():
+async def main():
   print("Ankit)
